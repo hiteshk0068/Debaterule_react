@@ -24,6 +24,7 @@ export function Home() {
           <img src="https://images.pexels.com/photos/4830673/pexels-photo-4830673.jpeg" alt="YES OR NO" />
         </div>
       </div> */}
+      
 
 
 
