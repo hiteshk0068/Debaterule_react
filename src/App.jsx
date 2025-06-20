@@ -1,4 +1,5 @@
 import React from 'react'
+
 import './App.css'
 import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Pages/Home'
@@ -8,8 +9,10 @@ import Page3 from './Pages/Page3'
 import Page4 from './Pages/Page4'
 import { Layout } from './Layout'
 
+
 function App() {
   return (
+    
     
     <Router> 
       <Routes>
@@ -30,3 +33,5 @@ function App() {
 }
 
 export default App
+
+
