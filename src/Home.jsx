@@ -1,7 +1,7 @@
 import React from 'react'
-import Blog from '../components/blogs'
-import Youtubecards from '../components/Youtubecards'
-import Debatetopics from '../components/Debatetopics'
+import Blog from './components/blogs'
+import Youtubecards from './components/Youtubecards'
+import Debatetopics from './components/Debatetopics'
 
 
 
