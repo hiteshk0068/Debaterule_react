@@ -1,4 +1,4 @@
-import React from 'react'
+
 import DebateCard from './DebateCard';
 import { useNavigate } from 'react-router-dom';
 
