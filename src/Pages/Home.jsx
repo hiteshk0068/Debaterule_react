@@ -1,7 +1,7 @@
 import React from 'react'
-import Blog from './components/blogs'
-import Youtubecards from './components/Youtubecards'
-import Debatetopics from './components/Debatetopics'
+import Blog from '../components/blogs'
+import Youtubecards from '../components/Youtubecards'
+import Debatetopics from '../components/Debatetopics'
 
 
 
@@ -24,7 +24,6 @@ export function Home() {
           <img src="https://images.pexels.com/photos/4830673/pexels-photo-4830673.jpeg" alt="YES OR NO" />
         </div>
       </div> */}
-      
 
 
 
